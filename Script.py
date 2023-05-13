@@ -6,7 +6,7 @@ Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ M�
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ: {}
-✯ Cʀᴇᴀᴛᴏʀ: <a href='https://t.me/DQ_The_File_Donor_Updates'>Jᴏᴇʟ Kᴜʀɪᴀɴ Bɪᴊᴜ</a>
+✯ Cʀᴇᴀᴛᴏʀ: <a href='https://t.me/+j42MHu0zpNphZjE1'>𝙷𝚃𝙿 𝙱𝙸𝚃 𝚄𝙿𝙳𝙰𝚃𝙴𝚂</a>
 ✯ Lɪʙʀᴀʀʏ: <a href='https://docs.pyrogram.org/'>Pʏʀᴏɢʀᴀᴍ</a>
 ✯ Lᴀɴɢᴜᴀɢᴇ: <a href='https://www.python.org/download/releases/3.0/'>Pʏᴛʜᴏɴ 3</a>
 ✯ DᴀᴛᴀBᴀsᴇ: <a href='https://www.mongodb.com/'>MᴏɴɢᴏDB</a>
@@ -15,9 +15,9 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     SOURCE_TXT = """<b>ɴᴏᴛᴇ:
 - ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ᴀɴ ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ.
-- ꜱᴏᴜʀᴄᴇ - <a href="https://github.com/Joelkb/DQ-The-File-Donor">ʜᴇʀᴇ</a>
+- ꜱᴏᴜʀᴄᴇ - <a href="𝚑𝚝𝚝𝚙𝚜://t.me/HTP_Backup  ">ʜᴇʀᴇ</a>
 Dᴇᴠᴇʟᴏᴘᴇʀ:
-- <a href="https://t.me/creatorbeatz">Jᴏᴇʟ ᠰ TɢX</a></b>"""
+- <a href="https://t.me/𝙺𝙰𝙺𝙰𝚂𝙷𝙸_𝚂𝚀𝚄𝙰𝙳7">𝙺𝙰𝙺𝙰𝚂𝙷𝙸 𝙽𝙸𝙽𝙹𝙰</a></b>"""
 
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
 - ꜰɪʟᴛᴇʀ ɪꜱ ᴀ ꜰᴇᴀᴛᴜʀᴇ ᴡᴇʀᴇ ᴜꜱᴇʀꜱ ᴄᴀɴ ꜱᴇᴛ ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ʀᴇᴘʟɪᴇꜱ ꜰᴏʀ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴋᴇʏᴡᴏʀᴅ ᴀɴᴅ ɪ ᴡɪʟʟ ʀᴇꜱᴘᴏɴᴅ ᴡʜᴇɴᴇᴠᴇʀ ᴀ ᴋᴇʏᴡᴏʀᴅ ɪꜱ ꜰᴏᴜɴᴅ ɪɴ ᴛʜᴇ ᴍᴇꜱꜱᴀɢᴇ
@@ -38,7 +38,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 2. ᴛʜɪꜱ ʙᴏᴛ ꜱᴜᴘᴘᴏʀᴛꜱ ʙᴜᴛᴛᴏɴꜱ ᴡɪᴛʜ ᴀɴʏ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ ᴛʏᴘᴇ.
 3. ʙᴜᴛᴛᴏɴꜱ ꜱʜᴏᴜʟᴅ ʙᴇ ᴘʀᴏᴘᴇʀʟʏ ᴘᴀʀꜱᴇᴅ ᴀꜱ ᴍᴀʀᴋᴅᴏᴡɴ ꜰᴏʀᴍᴀᴛ
 <b>ᴜʀʟ ʙᴜᴛᴛᴏɴꜱ:</b>
-<code>[Button Text](buttonurl:https://t.me/DQ_The_File_Donor_Updates)</code>
+<code>[Button Text](buttonurl:𝚑𝚝𝚝𝚙𝚜://𝚝.𝚖𝚎/+𝚓42𝙼𝙷𝚞0𝚣𝚙𝙽𝚙𝚑𝚉𝚓𝙴1)</code>
 <b>ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴꜱ:</b>
 <code>[Button Text](buttonalert:ᴛʜɪꜱ ɪꜱ ᴀɴ ᴀʟᴇʀᴛ ᴍᴇꜱꜱᴀɢᴇ)</code>"""
 
@@ -124,7 +124,7 @@ Nᴀᴍᴇ - {}"""
 
     I_CUDNT = """<b>sᴏʀʀʏ ɴᴏ ꜰɪʟᴇs ᴡᴇʀᴇ ꜰᴏᴜɴᴅ ꜰᴏʀ ʏᴏᴜʀ ʀᴇǫᴜᴇꜱᴛ {} 😕
 
-ᴄʜᴇᴄᴋ ʏᴏᴜʀ sᴘᴇʟʟɪɴɢ ɪɴ ɢᴏᴏɢʟᴇ ᴀɴᴅ ᴛʀʏ ᴀɢᴀɪɴ 😃
+ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴍᴏᴠɪᴇ ʀᴇǫᴜᴇꜱᴛ ꜰᴏʀᴍᴀᴛ ᴀɢᴀɪɴ 😃
 
 ᴍᴏᴠɪᴇ ʀᴇǫᴜᴇꜱᴛ ꜰᴏʀᴍᴀᴛ 👇
 
@@ -149,8 +149,8 @@ Nᴀᴍᴇ - {}"""
 <b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
     
 • ꜰᴜʟʟ ɴᴀᴍᴇ : ᴊᴏᴇʟ ᴋᴜʀɪᴀɴ ʙɪᴊᴜ
-• ᴜꜱᴇʀɴᴀᴍᴇ : @creatorbeatz
-• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/creatorbeatz'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
+• ᴜꜱᴇʀɴᴀᴍᴇ : @KAKASHI_SQUAD7
+• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.meKAKASHI_SQUAD7'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
 
     REQINFO = """
 ⚠ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ⚠
@@ -195,12 +195,12 @@ Nᴀᴍᴇ - {}"""
 
 <b>
 ╭─────── • ◆ • ───────╮
-🔅 Dᴀʀᴋ Mᴏᴅᴇ :  <a href="https://t.me/addtheme/DQ_The_File_Donor_Theme">Tᴏᴜᴄʜ</a>
+😅 𝙼𝙰𝙸𝙽𝙲𝙷𝙰𝙽𝙽𝙴𝙻 :  <a href="https://t.me/+j42MHu0zpNphZjE1">𝙼𝙰𝙸𝙽 𝙲𝙷𝙰𝙽𝙽𝙴𝙻</a>
 ╰─────── • ◆ • ───────╯
 
 =========== • ✠ • ===========
-▫️ ᴄʜᴀɴɴᴇʟ : @DQ_The_File_Donor_Bot_Updates
-▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : @DQ_The_File_Donor_Support
+▫️ 𝙱𝙰𝙲𝙺𝙿𝚄 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 : @HTP_Backup
+▫️ 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 𝙶𝚁𝙾𝚄𝙿 : @Telugu_movues_Hollywoodd_dubbed
 =========== • ✠ • ===========</b>"""
 
     IMDB_TEMPLATE_TXT = """
@@ -234,7 +234,7 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 • /plink - <code>Jᴜsᴛ ʟɪᴋᴇ /link, ʙᴜᴛ ᴛʜᴇ ғɪʟᴇ ᴡɪʟʟ ʙᴇ sᴇɴᴅ ᴡɪᴛʜ ғᴏʀᴡᴀʀᴅ ʀᴇsᴛʀɪᴄᴛɪᴏɴ.</code>"""
 
     RESTART_TXT = """
-<b>Bᴏᴛ Rᴇsᴛᴀʀᴛᴇᴅ !
+<b>ᴄʜᴀɴɴᴇʟ !
 
 📅 Dᴀᴛᴇ : <code>{}</code>
 ⏰ Tɪᴍᴇ : <code>{}</code>
