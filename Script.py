@@ -200,7 +200,7 @@ Nᴀᴍᴇ - {}"""
 
 =========== • ✠ • ===========
 ▫️ 𝙱𝙰𝙲𝙺𝙿𝚄 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 : @HTP_Backup
-▫️ 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 𝙶𝚁𝙾𝚄𝙿 : @Telugu_movues_Hollywoodd_dubbed
+▫️ 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 𝙶𝚁𝙾𝚄𝙿 :  <a href="https://t.me/+j42MHu0zpNphZjE1">CHANNEL</aa>
 =========== • ✠ • ===========</b>"""
 
     IMDB_TEMPLATE_TXT = """
